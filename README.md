@@ -21,4 +21,5 @@ Kendalikan ular, kumpulkan makanan, tingkatkan skor, dan jangan sampai menabrak 
    ```bash
    git clone https://github.com/rahmayani-maya/Game_Snake.git
 
-## Mainkan Secara Online: https://rahmayani-maya.github.io/Game_Snake/Snake.html
+## 🤳 Mainkan Secara Online: 
+https://rahmayani-maya.github.io/Game_Snake/Snake.html
